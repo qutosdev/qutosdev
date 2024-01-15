@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jake's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=qutosdev)](https://github.com/qutosdev/github-readme-stats)
+
 <!--
 **qutosdev/qutosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
