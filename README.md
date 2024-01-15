@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+My name is Jake! I'm a developer based in the United Kingdom and I predominantly work on SaaS-based integrations! I am currently working on several private projects and primarily use GitHub as version control for my own private projects!
+
+# Statistics
 [![Jake's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=qutosdev)](https://github.com/qutosdev/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qutosdev&layout=donut)](https://github.com/qutosdev/github-readme-stats)
+
 
 <!--
 **qutosdev/qutosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
