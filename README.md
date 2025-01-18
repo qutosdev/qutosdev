@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jake! I'm a developer based in the United Kingdom and I predominantly work on SaaS-based integrations! I am currently working on several private projects and primarily use GitHub as version control for my own private projects!
+I'm a developer based in the United Kingdom and I predominantly work on SaaS-based integrations! I am currently working on several private projects and primarily use GitHub as version control for my own private projects!
 
 # Statistics
 [![Jake's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=xbpuk)](https://github.com/xbpuk/github-readme-stats)
